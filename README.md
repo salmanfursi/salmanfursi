@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm salman fursi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="[https://img.freepik.com/free-vector/organic-flat-gamer-room-illustrated_23-2148934415.jpg?w=900&t=st=~exp=1687972789~hmac=2f7f2ac87679da4be7144f00f6ab45b48b9f3568d379f2dc9df2204e9f5954f0](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1687972526~exp=1687973126~hmac=f55661d7ab90e6f1fc7134a64fc5937f8c061ae68ff9a6e248e6f9417fd4d2ab)" alt="">
+<img src="https://img.freepik.com/premium-vector/angry-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4060.jpg?w=740" alt="">
 
 
 - 🌱 I’m currently learning **next js**
