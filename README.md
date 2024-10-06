@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm salman fursi</h1>
-<h2 align="center">01,may,24⚡current doing 👨‍💻intern at solution provider</h2>
+<h2 align="center">01,may,24⚡current doing 👨‍💻Full time at solution provider</h2>
+<h2 align="center">01,may,24⚡current doing 👨‍💻Part time in replicate </h2>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://img.freepik.com/premium-vector/angry-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4060.jpg?w=740" alt="">
