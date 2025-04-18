@@ -3,7 +3,7 @@
 <h2 align="center">01,may,24⚡current doing 👨‍💻Part time in replicate </h2>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://img.freepik.com/premium-vector/angry-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4060.jpg?w=740" alt="">
+<img src="https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/491736122_122151714578476740_3020576767426259319_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XyKEWFEvI3YQ7kNvwGtKPUF&_nc_oc=Adkc_pCUOf3LzpQ9MHMJxOkCpLXuXPDoj9i54wRCNV88diV-dlytw3hAceTsGcc2VVU&_nc_zt=23&_nc_ht=scontent.fdac24-3.fna&_nc_gid=-5e0R08bpNa4KD66WaQ2FA&oh=00_AfGxqQonD_zJ4JenNxDn0BBbMK-cnu6vZ8_bBMl3VMIMhw&oe=680830E4" alt="">
 
 
 - 🌱 I’m currently learning **next js**
